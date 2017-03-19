@@ -279,7 +279,7 @@ void LandscapeApp::draw() {
 	clearScreen();
 
 	Gizmos::clear();
-	
+	//test comment
 	//glPolygonMode(GL_FRONT_AND_BACK, GL_POINT);
 
 	// update perspective in case window resized
